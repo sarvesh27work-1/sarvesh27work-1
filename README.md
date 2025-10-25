@@ -1,4 +1,4 @@
-## About me
+## IIT Grad Transitioning from Chemical Engineering to AI/CLoud
 ### ✌Currently working in Production Department at Indian Oil.
 ### 🙌Looking to transition in AI and Cloud.
 
